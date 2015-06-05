@@ -1,0 +1,65 @@
+ *{
+ 	font-size: 16px;
+ }
+
+ body {
+ 	margin: 0;
+ }
+
+ header {
+ 	background-color: #E52934;
+ 	padding:0em 2em 0em 2em; 
+ }
+
+ .logo {
+ 	height: 2em;
+ 	margin-top: 0.9em;
+ }
+
+ nav {
+ 	display: inline-block;
+ 	vertical-align: top;
+ }
+
+ ul {
+ 	margin: 0;
+ 	line-height: 3.9em;
+ }
+
+ li {
+ 	display: inline-block;
+ 	margin-right: 3em;
+
+ }
+
+ a{
+ 	text-decoration: none;
+ 	color: white;
+ 	font-weight:bold;
+ }
+
+#Busqueda {
+	display: inline-block;
+    float: right;
+    margin: 1.1em 0em 0em 0em;
+}
+
+
+ a:hover {
+ 	color: #d1d1d1;
+ }
+
+ .series {
+ 	padding: 0em 1.5em 0em 1.5em;
+ }
+
+ .serie {
+ 	display: inline-block;
+ }
+
+ .serie img {
+ 	height: 10.97em;
+ 	margin-right: 0.6em;
+ }
+
+
